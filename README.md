@@ -54,8 +54,15 @@ SQLServer
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
 ## Social
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/erwin-alejandro-garcia-barrera-5a0909126/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alejandro-garcia-gt/)
 
+### 📊 GitHub Stats:
+---
+![github stats](https://github-readme-stats.vercel.app/api?username=alejandro-gb&theme=radical&show_icons=true&count_private=true)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alejandro-gb&theme=solarized_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alejandro-gb&theme=solarized_dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alejandro-gb&theme=solarized_dark)
 
 <!---
 alejandro-gb/alejandro-gb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
